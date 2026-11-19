@@ -1,0 +1,1 @@
+# Jugantar-Newspaper-Annotation-OCR-Pipeline
