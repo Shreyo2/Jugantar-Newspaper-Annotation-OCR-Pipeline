@@ -42,10 +42,10 @@ Follow these steps for each newspaper page:
 An ad story from the 1946 *Jugantar* newspaper highlighting the formats, craft, and layouts of Bengali advertisements set in the ink-heavy columns—serving as a historical time capsule of the era.
 
 ### Slide 1
-![Slide 1](slides/slide-01.png)
+![Slide 1](Slides/Slide1.png)
 
 ### Slide 2
-![Slide 2](slides/slide-02.png)
+![Slide 2](Slides/Slide2.png)
 
 ### Slide 3
-![Slide 3](slides/slide-03.png)
+![Slide 3](Slides/Slide3.png)
