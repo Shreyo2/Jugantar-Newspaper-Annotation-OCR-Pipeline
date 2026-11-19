@@ -37,15 +37,17 @@ Follow these steps for each newspaper page:
 * **Double-Check Before Submitting:** Ensure no disguised advertisements were accidentally boxed before hitting **Submit**, as this triggers the backend OCR script.
 * **Save Your Edits:** Always remember to click **Update** (not just close the box) after fixing Bengali text errors, otherwise your OCR corrections will not be saved.
 
+---
+
 ## 1946 *Jugantar* Newspaper Ad Story
 
 An ad story from the 1946 *Jugantar* newspaper highlighting the formats, craft, and layouts of Bengali advertisements set in the ink-heavy columns—serving as a historical time capsule of the era.
 
 ### Slide 1
-![Slide 1](Slides/Slide1.png)
+![Slide 1](Slides/Slide1.PNG)
 
 ### Slide 2
-![Slide 2](Slides/Slide2.png)
+![Slide 2](Slides/Slide2.PNG)
 
 ### Slide 3
-![Slide 3](Slides/Slide3.png)
+![Slide 3](Slides/Slide3.PNG)
