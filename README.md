@@ -36,3 +36,16 @@ Follow these steps for each newspaper page:
 * **Box Everything First Before Submitting**: Do not hit **Submit** after drawing each individual bounding box. Complete all bounding boxes on the entire page first, and only click **Submit** once at the end to avoid maxing out the free daily API call limits (Sarvam / Gemini).
 * **Double-Check Before Submitting:** Ensure no disguised advertisements were accidentally boxed before hitting **Submit**, as this triggers the backend OCR script.
 * **Save Your Edits:** Always remember to click **Update** (not just close the box) after fixing Bengali text errors, otherwise your OCR corrections will not be saved.
+
+## 1946 *Jugantar* Newspaper Ad Story
+
+An ad story from the 1946 *Jugantar* newspaper highlighting the formats, craft, and layouts of Bengali advertisements set in the ink-heavy columns—serving as a historical time capsule of the era.
+
+### Slide 1
+![Slide 1](slides/slide-01.png)
+
+### Slide 2
+![Slide 2](slides/slide-02.png)
+
+### Slide 3
+![Slide 3](slides/slide-03.png)
