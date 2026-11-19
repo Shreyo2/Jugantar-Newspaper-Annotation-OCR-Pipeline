@@ -9,7 +9,6 @@ Before starting the annotation process, ensure you have the following set up:
 * **Python Terminal:** Running the backend OCR processing script connected to Label Studio.
 * **Avro Keyboard:** Installed and active on your system for typing and correcting Bengali text.
 
----
 
 ## ⚠️ Critical Annotation Rules
 
@@ -18,7 +17,6 @@ Before starting the annotation process, ensure you have the following set up:
 3. **Watch Out for Camouflaged Ads:** Be extra cautious of text-only advertisements. Some ads are intentionally formatted to blend in as regular news articles due to their all-text layout, font structure, and positioning on the newspaper page. Always read the content carefully to ensure you do not annotate disguised ads.
 4. **Use Avro Bengali Keyboard for Edits:** All manual corrections to the generated Bengali OCR text must be typed using the **Avro Bengali keyboard** to maintain consistent character encoding.
 
----
 
 ## Step-by-Step Annotation Workflow
 
